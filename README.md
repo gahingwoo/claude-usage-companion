@@ -85,3 +85,7 @@ You can also use the shared Android Studio run configurations:
 - The app is an unofficial companion and is not affiliated with Anthropic.
 - Wear Tiles currently use the legacy `androidx.wear.tiles` builders, which compile with deprecation warnings. A future cleanup can migrate the Tile implementation to ProtoLayout Material components.
 - Usage availability depends on Claude's OAuth/API response headers.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
